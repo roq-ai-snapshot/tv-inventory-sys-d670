@@ -1,0 +1,912 @@
+[
+  {
+    "tv": [
+      {
+        "id": "259217c2-4238-423f-af96-0f2fd3223c48",
+        "model": "Smart TV 2000",
+        "status": "Available",
+        "created_at": "2023-08-11T01:47:57.528Z",
+        "updated_at": "2023-08-10T16:15:58.221Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ef74dacf-4554-4b2e-a4a3-e24afc2c6c94",
+        "model": "Ultra HD 500",
+        "status": "Out of stock",
+        "created_at": "2023-08-10T15:44:47.861Z",
+        "updated_at": "2023-08-11T06:45:29.617Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bd5a20db-542d-4756-a6c5-4fd7ab57a18f",
+        "model": "Slim LED 42",
+        "status": "On sale",
+        "created_at": "2023-08-10T08:14:32.367Z",
+        "updated_at": "2023-08-10T15:47:51.453Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9fb1d667-51e4-4c2f-9159-3480714580b2",
+        "model": "Curved OLED 55",
+        "status": "Pre-order",
+        "created_at": "2023-08-10T11:05:02.557Z",
+        "updated_at": "2023-08-11T02:54:25.943Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "66f0778d-fb5a-4d6e-bbc2-ec2d11f524be",
+        "model": "Android TV 65",
+        "status": "Limited edition",
+        "created_at": "2023-08-10T14:42:10.851Z",
+        "updated_at": "2023-08-10T17:14:00.972Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a257b5d7-c5e0-4335-94ec-e6deebbbbb77",
+        "email": "Broderick.Hagenes-Murphy23@yahoo.com",
+        "firstName": "Suzanne",
+        "lastName": "Turcotte",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52734313",
+        "tenantId": null
+      },
+      {
+        "reference": "009a0f05-b13d-4e74-91e3-441c92eb17e4",
+        "email": "Jameson80@yahoo.com",
+        "firstName": "Demond",
+        "lastName": "Pacocha",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96298713",
+        "tenantId": null
+      },
+      {
+        "reference": "3b2ee06c-ae44-4b03-afa7-56968b7eadfa",
+        "email": "Jalen_Lemke-Cummings90@yahoo.com",
+        "firstName": "Ines",
+        "lastName": "Hintz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/872.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "342db933-2ba4-4df9-be19-53519ae24816",
+        "email": "Maymie_Corwin@gmail.com",
+        "firstName": "Kenny",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82009577",
+        "tenantId": null
+      },
+      {
+        "reference": "81934319-a923-4c96-86dd-831e0734a2aa",
+        "email": "Christy36@yahoo.com",
+        "firstName": "Selena",
+        "lastName": "Ankunding",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/862.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "tv": [
+      {
+        "id": "fb5e7614-390d-4183-8c1c-f9f429d994ad",
+        "model": "Smart TV 2000",
+        "status": "Active",
+        "created_at": "2023-08-10T13:29:15.651Z",
+        "updated_at": "2023-08-11T06:32:57.814Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6a9662f8-f91f-4ef5-aa24-adce31e18f47",
+        "model": "Ultra HD 500",
+        "status": "Inactive",
+        "created_at": "2023-08-11T04:35:28.595Z",
+        "updated_at": "2023-08-10T21:16:33.050Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aacd082d-1194-4a8f-b0eb-49b0dbd5574e",
+        "model": "Slim LED 42",
+        "status": "Under Repair",
+        "created_at": "2023-08-10T15:32:00.285Z",
+        "updated_at": "2023-08-10T23:32:03.048Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e0d4210e-08d1-4de6-867b-7ea603d447e6",
+        "model": "Curved OLED 55",
+        "status": "Sold Out",
+        "created_at": "2023-08-10T18:25:10.319Z",
+        "updated_at": "2023-08-11T00:02:33.138Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2c5d1578-7de7-4d69-a8e7-c223f7ff4226",
+        "model": "Android TV 65",
+        "status": "Coming Soon",
+        "created_at": "2023-08-11T04:08:51.100Z",
+        "updated_at": "2023-08-10T19:17:30.849Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d6ce3a4e-9b21-4b47-91ea-23ff03c05d73",
+        "email": "Viola_Nitzsche@yahoo.com",
+        "firstName": "Jaylen",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/257.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ae77005d-0b47-4ff0-907b-56444aa2d4c9",
+        "email": "Daniella.Hessel@hotmail.com",
+        "firstName": "Kurtis",
+        "lastName": "Kreiger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20457946",
+        "tenantId": null
+      },
+      {
+        "reference": "2b6181b5-d657-4e3f-a239-372e9280e9c6",
+        "email": "Nicolas_Jenkins75@hotmail.com",
+        "firstName": "Bernardo",
+        "lastName": "Koss",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46944376",
+        "tenantId": null
+      },
+      {
+        "reference": "a3a34d6e-c84f-45b0-a952-6ae309708ebd",
+        "email": "Velva.Rohan@gmail.com",
+        "firstName": "Ricardo",
+        "lastName": "Crona",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1066.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f3f16fd6-cef4-44f1-b480-017dc38c701d",
+        "email": "Silas74@yahoo.com",
+        "firstName": "Alysson",
+        "lastName": "Lemke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/878.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "tv": [
+      {
+        "id": "7cb53bcc-20fe-4808-aa6a-0a8899b7cf1a",
+        "model": "Smart TV 2000",
+        "status": "Available",
+        "created_at": "2023-08-11T04:58:16.928Z",
+        "updated_at": "2023-08-10T10:35:34.625Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0c78c25e-37ba-4749-8870-307ada70fc51",
+        "model": "Ultra HD 500",
+        "status": "Out of stock",
+        "created_at": "2023-08-10T17:33:34.299Z",
+        "updated_at": "2023-08-11T05:23:42.867Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b1704488-eca8-4b4d-bff5-bce73913e1b5",
+        "model": "Slim LED 42",
+        "status": "On sale",
+        "created_at": "2023-08-11T03:29:30.995Z",
+        "updated_at": "2023-08-10T10:08:59.755Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "35a1d6c2-8bfd-4e1d-9f76-3c533b5933a5",
+        "model": "Curved OLED 55",
+        "status": "Pre-order",
+        "created_at": "2023-08-10T14:10:03.106Z",
+        "updated_at": "2023-08-10T19:05:48.632Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3015f192-4251-4893-9758-d0bb7faef3c5",
+        "model": "Android TV 65",
+        "status": "Limited edition",
+        "created_at": "2023-08-11T02:30:54.755Z",
+        "updated_at": "2023-08-10T07:28:40.020Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1db2fa9d-ecd2-477b-8162-534f91073330",
+        "email": "Weston.Roberts@hotmail.com",
+        "firstName": "Rico",
+        "lastName": "D'Amore",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/318.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a0561b54-5156-44c5-9aea-3078897ef6f9",
+        "email": "Delores76@gmail.com",
+        "firstName": "Wava",
+        "lastName": "Robel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1044.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7eaf9821-5d67-4a5b-a2cc-07b554c116be",
+        "email": "Laurel_Sanford7@gmail.com",
+        "firstName": "Jazmyne",
+        "lastName": "Morissette",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/776.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "48587375-a4b8-44da-a1d4-c1da65b980b4",
+        "email": "Bryon71@gmail.com",
+        "firstName": "Walter",
+        "lastName": "Larson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3988644",
+        "tenantId": null
+      },
+      {
+        "reference": "d8c378a8-8d13-46b6-be30-7835b25c4cff",
+        "email": "Garth.VonRueden-Nader68@hotmail.com",
+        "firstName": "Gabrielle",
+        "lastName": "Ryan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15756005",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "tv": [
+      {
+        "id": "ba80ee91-1b43-4fe1-be51-ceba3172b7c4",
+        "model": "Smart TV 2000",
+        "status": "Active",
+        "created_at": "2023-08-10T20:01:39.817Z",
+        "updated_at": "2023-08-10T20:43:54.422Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "84747acd-12f6-4437-89cd-9a7a0a64719d",
+        "model": "Ultra HD 500",
+        "status": "Inactive",
+        "created_at": "2023-08-10T20:34:35.148Z",
+        "updated_at": "2023-08-10T10:48:43.026Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6ee7afce-e27f-46eb-8706-a5314016eee9",
+        "model": "Slim LED 42",
+        "status": "Under Repair",
+        "created_at": "2023-08-10T11:26:36.542Z",
+        "updated_at": "2023-08-10T13:48:17.066Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "529af7ce-5cfb-48e3-a267-de6959271180",
+        "model": "Curved OLED 55",
+        "status": "Sold Out",
+        "created_at": "2023-08-11T04:34:46.734Z",
+        "updated_at": "2023-08-10T19:43:55.136Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "50a37b2d-6ba1-4654-901b-958260a405ff",
+        "model": "Android TV 65",
+        "status": "Coming Soon",
+        "created_at": "2023-08-10T21:22:33.726Z",
+        "updated_at": "2023-08-10T20:14:11.163Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f4ebca44-fb65-473d-8912-c0b1603ce98e",
+        "email": "Abigail.Turcotte@hotmail.com",
+        "firstName": "Shea",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31349435",
+        "tenantId": null
+      },
+      {
+        "reference": "b46791b7-9017-4354-8567-6a2bf05b3250",
+        "email": "Lue_Hodkiewicz96@hotmail.com",
+        "firstName": "Kadin",
+        "lastName": "Wintheiser",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/712.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f6440e75-305b-4abe-a437-94b84fd8c8f4",
+        "email": "Lenore_Berge88@gmail.com",
+        "firstName": "Mireille",
+        "lastName": "Von",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/991.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "862d476e-0e1a-4372-84dd-6b22489639fe",
+        "email": "Reanna_Kunze@hotmail.com",
+        "firstName": "Winnifred",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/254.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2c650c96-7ebe-466d-a0ec-c07f978b571c",
+        "email": "Daron19@hotmail.com",
+        "firstName": "Carmella",
+        "lastName": "Franecki",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62735982",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "tv": [
+      {
+        "id": "377650cc-6914-442d-b907-0c69edc2d79f",
+        "model": "Smart TV 2000",
+        "status": "Active",
+        "created_at": "2023-08-11T02:08:05.748Z",
+        "updated_at": "2023-08-11T00:13:15.482Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "32efc081-8676-421a-a4c9-00f82b7c5f96",
+        "model": "Ultra HD 500",
+        "status": "Inactive",
+        "created_at": "2023-08-11T05:57:04.298Z",
+        "updated_at": "2023-08-10T13:10:31.671Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "214cf800-b3ad-4b5a-87f3-82faf874555a",
+        "model": "Slim LED 42",
+        "status": "Under Repair",
+        "created_at": "2023-08-10T23:57:49.333Z",
+        "updated_at": "2023-08-10T22:14:37.787Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3be7ddf8-11a0-42a5-99fc-857a06381305",
+        "model": "Curved OLED 55",
+        "status": "Sold Out",
+        "created_at": "2023-08-10T17:45:29.235Z",
+        "updated_at": "2023-08-10T08:35:28.722Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "75d8deed-7cdf-404a-b851-bb5fb7ec1cdf",
+        "model": "Android TV 65",
+        "status": "Coming Soon",
+        "created_at": "2023-08-11T00:14:13.095Z",
+        "updated_at": "2023-08-10T09:34:18.280Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "68b02945-d7a8-47c2-a225-124162eb6fbd",
+        "email": "Zola92@yahoo.com",
+        "firstName": "Vance",
+        "lastName": "Parisian",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/451.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2ee05fa2-8a22-4707-b651-b62a39ce8e28",
+        "email": "Fabian35@hotmail.com",
+        "firstName": "Sonia",
+        "lastName": "Luettgen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/475.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6ed1dbd0-7dfa-4dcc-96b4-f080ee75a376",
+        "email": "Ted.Crooks@gmail.com",
+        "firstName": "Robyn",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/566.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "310c472d-257c-40a1-a09e-30eb89ac43f7",
+        "email": "Krystel10@gmail.com",
+        "firstName": "Murphy",
+        "lastName": "Sipes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/493.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "14966dbb-a47a-451a-af51-20d3af50b617",
+        "email": "Estevan.Jones@yahoo.com",
+        "firstName": "Meta",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/198.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "tv": [
+      {
+        "id": "f75fd79e-c488-4542-8767-30c8a470d772",
+        "model": "Smart TV 2000",
+        "status": "Available",
+        "created_at": "2023-08-10T12:19:50.259Z",
+        "updated_at": "2023-08-11T04:25:03.173Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2794ed80-69de-416c-8710-ddd6bb3d4dc1",
+        "model": "Ultra HD 500",
+        "status": "Out of stock",
+        "created_at": "2023-08-10T22:50:04.545Z",
+        "updated_at": "2023-08-10T21:44:59.751Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c906ce62-daef-49f7-854d-90ab16648c80",
+        "model": "Slim LED 42",
+        "status": "On sale",
+        "created_at": "2023-08-10T13:57:13.500Z",
+        "updated_at": "2023-08-11T01:19:33.342Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c0e0cbf4-582e-4eb4-a812-0f1577fcb517",
+        "model": "Curved OLED 55",
+        "status": "Pre-order",
+        "created_at": "2023-08-10T17:37:28.295Z",
+        "updated_at": "2023-08-10T14:38:57.923Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9078ee41-9e53-48fc-bbb9-fe98abe8a694",
+        "model": "Android TV 65",
+        "status": "Limited edition",
+        "created_at": "2023-08-10T17:42:27.070Z",
+        "updated_at": "2023-08-11T06:26:22.761Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0d899589-7636-475c-89d6-149789f3677a",
+        "email": "Heather_Funk@yahoo.com",
+        "firstName": "Alivia",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1000.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c997a8e2-3c2f-43e0-9099-d1dec5ab1c55",
+        "email": "Anabel35@yahoo.com",
+        "firstName": "Abigayle",
+        "lastName": "Funk",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11369311",
+        "tenantId": null
+      },
+      {
+        "reference": "e0c8e673-88d4-4f2c-ac6d-ad8d128583a0",
+        "email": "Monroe_Leffler@hotmail.com",
+        "firstName": "Quinn",
+        "lastName": "Kovacek",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4355145",
+        "tenantId": null
+      },
+      {
+        "reference": "ead99c99-87db-4514-95ba-132324468090",
+        "email": "Danial.Tremblay33@yahoo.com",
+        "firstName": "Nickolas",
+        "lastName": "Oberbrunner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42521028",
+        "tenantId": null
+      },
+      {
+        "reference": "bb0a50ac-340d-4f88-b657-46ed7b2aeb6b",
+        "email": "Cristal58@gmail.com",
+        "firstName": "Dewitt",
+        "lastName": "Bruen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68068395",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "tv": [
+      {
+        "id": "badd7312-af6d-4870-ab3e-9e001606f744",
+        "model": "Smart TV 2000",
+        "status": "Active",
+        "created_at": "2023-08-10T19:34:31.945Z",
+        "updated_at": "2023-08-10T22:10:13.771Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "31203c21-3b13-4cbc-8163-84a4aa4d3825",
+        "model": "Ultra HD 500",
+        "status": "Inactive",
+        "created_at": "2023-08-11T05:33:30.027Z",
+        "updated_at": "2023-08-11T06:48:54.137Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e6ef6e6a-5a76-4ddf-a98c-38ddec6a5928",
+        "model": "Slim LED 42",
+        "status": "Under Repair",
+        "created_at": "2023-08-10T07:39:48.515Z",
+        "updated_at": "2023-08-10T11:53:12.864Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "03973dce-4379-4a3e-b317-683478b02a7a",
+        "model": "Curved OLED 55",
+        "status": "Sold Out",
+        "created_at": "2023-08-10T08:51:41.491Z",
+        "updated_at": "2023-08-11T04:34:38.479Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dd4f35ab-3dec-414d-97b8-91bd19c16126",
+        "model": "Android TV 65",
+        "status": "Coming Soon",
+        "created_at": "2023-08-10T11:02:13.666Z",
+        "updated_at": "2023-08-10T12:13:38.365Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5b7dee6e-08c8-4758-9835-7b06db37dcad",
+        "email": "Chandler_Jast-Volkman@gmail.com",
+        "firstName": "Jordyn",
+        "lastName": "Prohaska",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83334823",
+        "tenantId": null
+      },
+      {
+        "reference": "85fe27c5-1060-4df1-8d77-da5d42c96ec7",
+        "email": "Darwin.Nienow@yahoo.com",
+        "firstName": "Will",
+        "lastName": "Upton",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85906109",
+        "tenantId": null
+      },
+      {
+        "reference": "26f9d043-ae05-4dd8-a7d9-166668c4887b",
+        "email": "Wellington46@yahoo.com",
+        "firstName": "Karli",
+        "lastName": "Casper",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13595398",
+        "tenantId": null
+      },
+      {
+        "reference": "f298d882-ed5b-42c2-8ebb-1c9eeea758e7",
+        "email": "Jamil81@hotmail.com",
+        "firstName": "Braden",
+        "lastName": "Labadie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74756666",
+        "tenantId": null
+      },
+      {
+        "reference": "f23a0880-f668-4052-9717-a3a956aa0aa2",
+        "email": "Mozelle.Corkery19@hotmail.com",
+        "firstName": "Isobel",
+        "lastName": "Grimes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/337.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "tv": [
+      {
+        "id": "701968c9-51ff-496b-9784-8625427d44ac",
+        "model": "Smart TV 2000",
+        "status": "Available",
+        "created_at": "2023-08-10T12:28:47.679Z",
+        "updated_at": "2023-08-10T16:52:54.964Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f046a0f1-1cd3-4bb3-8260-c1f58e33d36c",
+        "model": "Ultra HD 500",
+        "status": "Out of stock",
+        "created_at": "2023-08-11T05:49:39.533Z",
+        "updated_at": "2023-08-10T18:23:22.163Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c485776a-db0d-4fa8-a7a4-271f6392344e",
+        "model": "Slim LED 42",
+        "status": "On sale",
+        "created_at": "2023-08-10T18:13:06.628Z",
+        "updated_at": "2023-08-10T18:18:20.975Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ee1a315f-6f09-4545-91cb-fc344ac2e322",
+        "model": "Curved OLED 55",
+        "status": "Pre-order",
+        "created_at": "2023-08-10T21:56:48.421Z",
+        "updated_at": "2023-08-10T15:37:04.375Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c485a1c5-3b48-4366-90c5-eec021743ea4",
+        "model": "Android TV 65",
+        "status": "Limited edition",
+        "created_at": "2023-08-11T06:59:40.866Z",
+        "updated_at": "2023-08-10T09:59:38.458Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "33bee9b2-bba9-4ee3-b774-01b74bcc4a44",
+        "email": "Nya_Zieme66@gmail.com",
+        "firstName": "Letitia",
+        "lastName": "Keebler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/488.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "eb1c2451-2c1e-4867-8f83-6ad8cafa95b8",
+        "email": "Lilla_Pouros32@gmail.com",
+        "firstName": "Payton",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/228.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5c32d771-fb66-41ca-af87-44e759a51d41",
+        "email": "Elwyn77@yahoo.com",
+        "firstName": "Darien",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1111.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2366f965-1164-4b7b-90ef-8ac66446db1f",
+        "email": "Johnnie_Hilll84@hotmail.com",
+        "firstName": "Jennyfer",
+        "lastName": "McLaughlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/382.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "80f2580b-8966-4605-8db3-8e0304526215",
+        "email": "Joannie8@hotmail.com",
+        "firstName": "Dayana",
+        "lastName": "Hettinger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41647062",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "tv": [
+      {
+        "id": "1c5ffb07-b29f-4480-90ae-a4d08c8e40ad",
+        "model": "Smart TV 2000",
+        "status": "Available",
+        "created_at": "2023-08-11T02:01:04.218Z",
+        "updated_at": "2023-08-11T04:18:54.951Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a2ca2a4f-7b4a-446b-a6b2-85125308683e",
+        "model": "Ultra HD 500",
+        "status": "Out of stock",
+        "created_at": "2023-08-10T15:00:12.211Z",
+        "updated_at": "2023-08-10T15:50:48.131Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aaa81347-e05b-47f7-b8de-856b137d0a08",
+        "model": "Slim LED 42",
+        "status": "On sale",
+        "created_at": "2023-08-11T02:11:10.683Z",
+        "updated_at": "2023-08-10T09:51:41.846Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "30dce27a-3ebd-40b3-9ee4-1c209f3b43bf",
+        "model": "Curved OLED 55",
+        "status": "Pre-order",
+        "created_at": "2023-08-11T02:36:51.823Z",
+        "updated_at": "2023-08-10T13:02:32.077Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3ff68098-4dda-4aff-8429-bab3db0cd619",
+        "model": "Android TV 65",
+        "status": "Limited edition",
+        "created_at": "2023-08-10T08:19:03.486Z",
+        "updated_at": "2023-08-10T15:21:05.265Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ff1efd58-c4f3-446e-a0c4-3d27f284e6ea",
+        "email": "Claudie83@hotmail.com",
+        "firstName": "Thurman",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57527608",
+        "tenantId": null
+      },
+      {
+        "reference": "9d210bc5-f2eb-4f0b-a353-0209961d0aea",
+        "email": "Alfredo_Bruen@hotmail.com",
+        "firstName": "Courtney",
+        "lastName": "Lehner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38072693",
+        "tenantId": null
+      },
+      {
+        "reference": "da6d6ab5-0ab8-4d8b-b61a-303182bf7b3f",
+        "email": "Dave_Ernser2@yahoo.com",
+        "firstName": "Brook",
+        "lastName": "Robel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1234.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "408ad922-8924-4042-919a-aba8ef43eada",
+        "email": "Whitney.Leuschke@yahoo.com",
+        "firstName": "Ulises",
+        "lastName": "Rice",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/829.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1dfb0e71-fd13-490b-8bc0-f2af64ba2617",
+        "email": "Thaddeus3@yahoo.com",
+        "firstName": "Etha",
+        "lastName": "Goldner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1173.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "tv": [
+      {
+        "id": "c972cddb-809a-4fa0-a3f8-f85de4d5bed5",
+        "model": "Smart TV 2000",
+        "status": "Available",
+        "created_at": "2023-08-10T09:31:16.003Z",
+        "updated_at": "2023-08-10T13:51:00.850Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2852d45f-e935-4706-a597-12c2e3a428e8",
+        "model": "Ultra HD 500",
+        "status": "Out of stock",
+        "created_at": "2023-08-11T01:31:09.975Z",
+        "updated_at": "2023-08-10T09:16:56.522Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c1fb6739-cd34-415c-b94e-44652549fdff",
+        "model": "Slim LED 42",
+        "status": "On sale",
+        "created_at": "2023-08-10T21:10:46.730Z",
+        "updated_at": "2023-08-11T01:07:43.215Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3cab15d4-eba6-4eef-b2cc-6e2e6e3ff2dc",
+        "model": "Curved OLED 55",
+        "status": "Pre-order",
+        "created_at": "2023-08-10T23:40:51.570Z",
+        "updated_at": "2023-08-10T19:54:55.262Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "46298bb8-8334-47a9-8215-977c8fb5fcba",
+        "model": "Android TV 65",
+        "status": "Limited edition",
+        "created_at": "2023-08-10T14:14:03.918Z",
+        "updated_at": "2023-08-10T19:10:27.359Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "08147ba4-13b2-4f45-ab6e-57af88f15aee",
+        "email": "Santa_Hartmann@gmail.com",
+        "firstName": "Amely",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/372.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dea99e45-1dc7-4bbc-a3f1-f4ee12a24569",
+        "email": "Boyd.Oberbrunner-Runte19@yahoo.com",
+        "firstName": "Ike",
+        "lastName": "Lebsack",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66214252",
+        "tenantId": null
+      },
+      {
+        "reference": "7145a206-6be8-424f-8636-a44a9755eb2b",
+        "email": "Estelle27@hotmail.com",
+        "firstName": "Perry",
+        "lastName": "Hermann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55783120",
+        "tenantId": null
+      },
+      {
+        "reference": "1facf70c-b2df-4f65-b594-afb9d50aeebc",
+        "email": "Maggie38@gmail.com",
+        "firstName": "Maria",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58060793",
+        "tenantId": null
+      },
+      {
+        "reference": "0c85dcdf-17e9-4ac9-8fd0-b88702b689f6",
+        "email": "Hilario72@gmail.com",
+        "firstName": "Judah",
+        "lastName": "Hirthe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22735585",
+        "tenantId": null
+      }
+    ]
+  }
+]
